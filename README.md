@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Graph
+|  |
+| ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
