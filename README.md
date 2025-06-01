@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3199-distribute-candies-among-children-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
 |  |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
