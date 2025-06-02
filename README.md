@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0135-candy](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting
 |  |
