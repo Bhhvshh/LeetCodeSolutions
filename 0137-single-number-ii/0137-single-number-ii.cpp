@@ -1,16 +1,18 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int> umap;
+       vector<int> count(32);
 
-        for(auto x:nums)
-          umap[x]++;
+       for(auto x:nums)
+        for(int i = 0;i<32;i++)
+           count[i]+= (x & 1<<i)? 1:0;
+       
+       bitset<32> ans;
+       for(int i =0;i<32;i++)
+        ans[i] = count[i]%3;
+     
 
-        for(auto x:umap)
-         if(x.second==1) return x.first;
-        
-
-        return -1;
+       return ans.to_ulong();
         
     }
 };
