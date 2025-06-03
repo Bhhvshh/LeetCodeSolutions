@@ -2,29 +2,30 @@ class Solution {
 public:
     string answerString(string word, int numFriends) {
 
-        string copy = word;
-
-        sort(copy.rbegin(),copy.rend());
+        if(numFriends<=1) return word;
+        int n = word.size();
+        
+        char  max_ = *max_element(word.begin(),word.end());
 
        
         
-        vector<string> ans;
-        int n = word.size();
-        if(numFriends<=1) return word;
+        string ans= "";
 
 
         for(int i =0;i<n ;i++){
-            if(word[i]==copy[0]){
+            if(word[i]==max_){
+
                 string str;
                 if(i>=numFriends-1) str = word.substr(i);
-                else str = word.substr(i,min(n-numFriends+1,n-i));
-                ans.push_back(str);
+                else str = word.substr(i,n-numFriends+1);
+                ans = max(str,ans);
+
             }
         }
 
-        sort(ans.rbegin(),ans.rend());
+      
 
-        return ans[0];
+        return ans;
 
         
     }
