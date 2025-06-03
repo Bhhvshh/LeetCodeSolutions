@@ -5,7 +5,6 @@ public:
 
     DSU(int n) {
         parent.resize(n);
-        // size.resize(n, 1);
         for (int i = 0; i < n; i++)
             parent[i] = i;
     }
@@ -27,20 +26,7 @@ public:
         }
     }
 
-    vector<int> getSetNumbers() {
-        unordered_map<int, int> rootToSetId;
-        vector<int> setId(parent.size());
-        int currentSet = 0;
-
-        for (int i = 0; i < parent.size(); i++) {
-            int root = find(i);
-            if (rootToSetId.find(root) == rootToSetId.end()) {
-                rootToSetId[root] = currentSet++;
-            }
-            setId[i] = rootToSetId[root];
-        }
-        return setId;
-    }
+  
 };
 
 
@@ -50,11 +36,14 @@ public:
     string smallestEquivalentString(string s1, string s2, string baseStr) {
 
         int n =s1.size();
+//initialize dsu with size 26 
         DSU dsu(26);
-        for(int i =0;i<n;i++){
+  //unite equivalent character
+        for(int i =0;i<n;i++)
             dsu.unite(s1[i]-'a',s2[i]-'a');
-        }
+        
 
+// create groups of disjoint sets and find smallest charcter from it to represent it.
         unordered_map<int,vector<int>> umap;
 
         for(int i = 0;i<26;i++){
@@ -62,12 +51,13 @@ public:
             umap[par].push_back(i);
 
         }
-         vector<char> smallestmap(26);
+
+        vector<char> smallestmap(26);
         for(auto &x:umap){
             int min_ =INT_MAX;
             for(auto y:x.second)
                    min_ = min(min_,y);
-            // cout << (char)('a'+min_)<< endl;
+           
             for(auto y:x.second){
                 smallestmap[y] = 'a'+min_;
             }
@@ -75,9 +65,9 @@ public:
 
         string ans = "";
 
-        for(auto x:baseStr){
+        for(auto x:baseStr)
             ans.push_back(smallestmap[x-'a']);
-        }
+        
 
         return ans;
         
