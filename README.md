@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
 |  |
