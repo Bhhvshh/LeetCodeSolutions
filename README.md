@@ -80,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0386-lexicographical-numbers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
