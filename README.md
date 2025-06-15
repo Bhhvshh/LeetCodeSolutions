@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3199-distribute-candies-among-children-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
