@@ -6,15 +6,8 @@ public:
         vector<vector<int>> ans;
 
         for(int i = 0;i<n;i+=3){
-            vector<int> tmp;
-            for(int j = i;j<i+3;j++){
-                if(nums[j]-nums[i]<=k){
-                    tmp.push_back(nums[j]);
-                }
-                else return {};
-
-            }
-            ans.push_back(tmp);
+            if(nums[i+2]-nums[i]>k) return {};
+            ans.push_back({nums[i],nums[i+1],nums[i+2]});
         }
 
         return ans;
