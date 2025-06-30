@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0518-coin-change-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Tree
 |  |
 | ------- |
