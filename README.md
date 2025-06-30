@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Combinatorics
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Stack
 |  |
 | ------- |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
