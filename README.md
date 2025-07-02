@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 ## Binary Tree
 |  |
 | ------- |
