@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Tree
 |  |
