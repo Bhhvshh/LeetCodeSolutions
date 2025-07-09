@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Tree
 |  |
 | ------- |
