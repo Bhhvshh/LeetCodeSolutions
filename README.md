@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0518-coin-change-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
