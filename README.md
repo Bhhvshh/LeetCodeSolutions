@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0518-coin-change-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0518-coin-change-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
+| [0542-01-matrix](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
