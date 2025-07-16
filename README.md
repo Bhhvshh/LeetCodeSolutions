@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0733-flood-fill) |
+| [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0621-task-scheduler](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
