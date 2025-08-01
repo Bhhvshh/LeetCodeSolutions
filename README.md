@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0139-word-break) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
