@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2227-sum-of-subarray-ranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Trie
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Brainteaser
 |  |
 | ------- |
