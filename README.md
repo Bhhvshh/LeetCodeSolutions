@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0139-word-break) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Brainteaser
