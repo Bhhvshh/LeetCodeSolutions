@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0621-task-scheduler) |
