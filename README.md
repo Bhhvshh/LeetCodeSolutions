@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
