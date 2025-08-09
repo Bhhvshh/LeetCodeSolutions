@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0139-word-break) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
