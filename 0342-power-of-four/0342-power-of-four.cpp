@@ -1,9 +1,11 @@
 class Solution {
 public:
     bool isPowerOfFour(int n) {
-        if(n==1) return true;
-        if(n%4 ||n<1) return false;
-        return isPowerOfFour(n/4); 
+        bitset<32> s("1010101010101010101010101010101");
+        int com = s.to_ulong();
+        cout <<com<<endl;
+       
+       return n>0&& com&n &&!(n&n-1);
       
     }
 };
