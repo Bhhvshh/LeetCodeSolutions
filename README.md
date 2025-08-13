@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0342-power-of-four) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0115-distinct-subsequences) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
