@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0679-24-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0679-24-game](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
