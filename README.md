@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3199-distribute-candies-among-children-i) |
