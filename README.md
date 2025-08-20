@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
