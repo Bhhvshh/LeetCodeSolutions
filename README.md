@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0139-word-break) |
+| [0402-remove-k-digits](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2227-sum-of-subarray-ranges) |
