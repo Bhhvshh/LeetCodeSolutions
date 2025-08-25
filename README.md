@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
