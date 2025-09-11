@@ -615,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [1155-product-sales-analysis-iii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1155-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
