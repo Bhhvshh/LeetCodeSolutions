@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1006-vowel-spellchecker](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1129-longest-string-chain](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1170-shortest-common-supersequence) |
