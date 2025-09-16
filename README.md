@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0584-find-customer-referee) |
 | [1155-product-sales-analysis-iii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1155-product-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1258-article-views-i) |
