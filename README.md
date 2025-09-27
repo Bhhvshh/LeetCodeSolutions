@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
+| [0830-largest-triangle-area](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Search Tree
