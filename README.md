@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1129-longest-string-chain](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
