@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1642-water-bottles) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
