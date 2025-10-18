@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Simulation
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
