@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
