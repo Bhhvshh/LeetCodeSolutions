@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Greedy
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3908-minimum-time-for-k-connected-components) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Tree
 |  |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Design
 |  |
 | ------- |
