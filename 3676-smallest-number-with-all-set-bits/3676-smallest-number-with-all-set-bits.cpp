@@ -2,21 +2,17 @@ class Solution {
 public:
     int smallestNumber(int n) {
 
-        while(true){
-            if(valid(n)) return n;
-            n++;
+        int ans = 0;
+
+        for(int i = 0;i<32&&n;i++){
+            ans|=(1<<i);
+
+            n>>=1;
         }
 
-        return n;
+        return ans;
         
     }
 
-    bool valid(int num){
-        while(num){
-            if(num%2==0) return false;
-            num/=2;
-        }
-
-        return true;
-    }
+   
 };
