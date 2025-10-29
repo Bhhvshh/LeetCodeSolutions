@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
 | ------- |
