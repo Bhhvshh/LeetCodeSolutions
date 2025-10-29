@@ -9,11 +9,10 @@ public:
 
         for(int i = 0;i<nums.size();i++){
             curr+=nums[i];
-            if(nums[i]== 0){
-
-                if(abs(total-2*curr)==0) ans+=2;
-                else if(abs(total-2*curr)==1) ans+=1;
-            }
+           
+                if(nums[i] == 0 &&abs(total-2*curr)==0) ans+=2;
+                else if(nums[i]==0 && abs(total-2*curr)==1) ans+=1;
+            
             
         }
 
