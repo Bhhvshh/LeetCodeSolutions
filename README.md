@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0342-power-of-four) |
+| [1009-complement-of-base-10-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1009-complement-of-base-10-integer) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
