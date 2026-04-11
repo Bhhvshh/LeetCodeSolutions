@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Binary Indexed Tree
 |  |
