@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0830-largest-triangle-area](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
+| [0874-walking-robot-simulation](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0874-walking-robot-simulation](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1642-water-bottles) |
 | [2069-walking-robot-simulation-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
