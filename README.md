@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0396-rotate-function](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0493-reverse-pairs](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0396-rotate-function](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
