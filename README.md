@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
