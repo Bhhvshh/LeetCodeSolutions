@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1129-longest-string-chain](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/1129-longest-string-chain) |
@@ -797,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Bhhvshh/LeetCodeSolutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
