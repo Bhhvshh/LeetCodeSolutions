@@ -1,5 +1,5 @@
 class Solution {
-    static inline const vector<string> names = {"Bob", "Alice"};
+    static inline const vector<string> names = {"Tie", "Bob", "Alice"};
 
 public:
     string stoneGameIII(vector<int>& stoneValue) {
@@ -9,10 +9,10 @@ public:
 
         auto ans = helper(0, 0, stoneValue, dp);
 
-        if(ans == 0) return "Tie";
+        
 
 
-        return names[ans > 0];
+        return names[(ans !=  0) + (ans > 0 ) ];
     }
 
 
